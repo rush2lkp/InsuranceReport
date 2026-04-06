@@ -157,3 +157,23 @@ Business Use:
 Analyze claims by number of kids driving.
 Group into categories (e.g., None, 1 Kid, 2 Kids, 3+ Kids).
 Helps insurers estimate family household risk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
