@@ -159,7 +159,7 @@ Group into categories (e.g., None, 1 Kid, 2 Kids, 3+ Kids).
 Helps insurers estimate family household risk.
 
 
-
+!(https://github.com/rush2lkp/Insurance_Report/blob/main/Power_ScreenShot.png) 
 
 
 
