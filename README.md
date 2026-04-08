@@ -161,6 +161,8 @@ Helps insurers estimate family household risk.
 
 ![Dashboard_Preview](https://github.com/rush2lkp/Insurance_Report/blob/main/Power_ScreenShot.png) 
 
+![Dashboard_Preview](https://github.com/rush2lkp/Insurance_Report/blob/main/Power_ScreenShot.png)
+
 
 
 
